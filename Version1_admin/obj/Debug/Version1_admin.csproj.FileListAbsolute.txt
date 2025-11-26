@@ -1,0 +1,17 @@
+\\192.168.3.250\Veda\3 курс\ИСП 34\Разработка кода ИС\Домнин Дмитрий\git_project_education\version1_book_accounting_system\Version1_admin\bin\Debug\git.accdb
+\\192.168.3.250\Veda\3 курс\ИСП 34\Разработка кода ИС\Домнин Дмитрий\git_project_education\version1_book_accounting_system\Version1_admin\bin\Debug\gitDataSet.Designer.cs
+\\192.168.3.250\Veda\3 курс\ИСП 34\Разработка кода ИС\Домнин Дмитрий\git_project_education\version1_book_accounting_system\Version1_admin\bin\Debug\gitDataSet.xsc
+\\192.168.3.250\Veda\3 курс\ИСП 34\Разработка кода ИС\Домнин Дмитрий\git_project_education\version1_book_accounting_system\Version1_admin\bin\Debug\gitDataSet.xsd
+\\192.168.3.250\Veda\3 курс\ИСП 34\Разработка кода ИС\Домнин Дмитрий\git_project_education\version1_book_accounting_system\Version1_admin\bin\Debug\gitDataSet.xss
+\\192.168.3.250\Veda\3 курс\ИСП 34\Разработка кода ИС\Домнин Дмитрий\git_project_education\version1_book_accounting_system\Version1_admin\bin\Debug\Version1_admin.exe.config
+\\192.168.3.250\Veda\3 курс\ИСП 34\Разработка кода ИС\Домнин Дмитрий\git_project_education\version1_book_accounting_system\Version1_admin\bin\Debug\Version1_admin.exe
+\\192.168.3.250\Veda\3 курс\ИСП 34\Разработка кода ИС\Домнин Дмитрий\git_project_education\version1_book_accounting_system\Version1_admin\bin\Debug\Version1_admin.pdb
+\\192.168.3.250\Veda\3 курс\ИСП 34\Разработка кода ИС\Домнин Дмитрий\git_project_education\version1_book_accounting_system\Version1_admin\obj\Debug\Version1_admin.csproj.AssemblyReference.cache
+\\192.168.3.250\Veda\3 курс\ИСП 34\Разработка кода ИС\Домнин Дмитрий\git_project_education\version1_book_accounting_system\Version1_admin\obj\Debug\Version1_admin.Form1.resources
+\\192.168.3.250\Veda\3 курс\ИСП 34\Разработка кода ИС\Домнин Дмитрий\git_project_education\version1_book_accounting_system\Version1_admin\obj\Debug\Version1_admin.main1.resources
+\\192.168.3.250\Veda\3 курс\ИСП 34\Разработка кода ИС\Домнин Дмитрий\git_project_education\version1_book_accounting_system\Version1_admin\obj\Debug\Version1_admin.Properties.Resources.resources
+\\192.168.3.250\Veda\3 курс\ИСП 34\Разработка кода ИС\Домнин Дмитрий\git_project_education\version1_book_accounting_system\Version1_admin\obj\Debug\Version1_admin.usersBd.resources
+\\192.168.3.250\Veda\3 курс\ИСП 34\Разработка кода ИС\Домнин Дмитрий\git_project_education\version1_book_accounting_system\Version1_admin\obj\Debug\Version1_admin.csproj.GenerateResource.cache
+\\192.168.3.250\Veda\3 курс\ИСП 34\Разработка кода ИС\Домнин Дмитрий\git_project_education\version1_book_accounting_system\Version1_admin\obj\Debug\Version1_admin.csproj.CoreCompileInputs.cache
+\\192.168.3.250\Veda\3 курс\ИСП 34\Разработка кода ИС\Домнин Дмитрий\git_project_education\version1_book_accounting_system\Version1_admin\obj\Debug\Version1_admin.exe
+\\192.168.3.250\Veda\3 курс\ИСП 34\Разработка кода ИС\Домнин Дмитрий\git_project_education\version1_book_accounting_system\Version1_admin\obj\Debug\Version1_admin.pdb
