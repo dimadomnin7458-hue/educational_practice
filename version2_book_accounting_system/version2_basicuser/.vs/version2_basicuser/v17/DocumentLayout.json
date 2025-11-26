@@ -1,0 +1,86 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "\\\\192.168.3.250\\Veda\\3 \u043A\u0443\u0440\u0441\\\u0418\u0421\u041F 34\\\u0420\u0430\u0437\u0440\u0430\u0431\u043E\u0442\u043A\u0430 \u043A\u043E\u0434\u0430 \u0418\u0421\\\u0414\u043E\u043C\u043D\u0438\u043D \u0414\u043C\u0438\u0442\u0440\u0438\u0439\\git_project_education\\version2_book_accounting_system\\version2_basicuser\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{97B14A04-B6F2-4FD6-B8A5-4DA847FDFB2D}|version2_basicuser.csproj|\\\\192.168.3.250\\veda\\3 \u043A\u0443\u0440\u0441\\\u0438\u0441\u043F 34\\\u0440\u0430\u0437\u0440\u0430\u0431\u043E\u0442\u043A\u0430 \u043A\u043E\u0434\u0430 \u0438\u0441\\\u0434\u043E\u043C\u043D\u0438\u043D \u0434\u043C\u0438\u0442\u0440\u0438\u0439\\git_project_education\\version2_book_accounting_system\\version2_basicuser\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{97B14A04-B6F2-4FD6-B8A5-4DA847FDFB2D}|version2_basicuser.csproj|\\\\192.168.3.250\\veda\\3 \u043A\u0443\u0440\u0441\\\u0438\u0441\u043F 34\\\u0440\u0430\u0437\u0440\u0430\u0431\u043E\u0442\u043A\u0430 \u043A\u043E\u0434\u0430 \u0438\u0441\\\u0434\u043E\u043C\u043D\u0438\u043D \u0434\u043C\u0438\u0442\u0440\u0438\u0439\\git_project_education\\version2_book_accounting_system\\version2_basicuser\\searchform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{97B14A04-B6F2-4FD6-B8A5-4DA847FDFB2D}|version2_basicuser.csproj|\\\\192.168.3.250\\veda\\3 \u043A\u0443\u0440\u0441\\\u0438\u0441\u043F 34\\\u0440\u0430\u0437\u0440\u0430\u0431\u043E\u0442\u043A\u0430 \u043A\u043E\u0434\u0430 \u0438\u0441\\\u0434\u043E\u043C\u043D\u0438\u043D \u0434\u043C\u0438\u0442\u0440\u0438\u0439\\git_project_education\\version2_book_accounting_system\\version2_basicuser\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{97B14A04-B6F2-4FD6-B8A5-4DA847FDFB2D}|version2_basicuser.csproj|\\\\192.168.3.250\\veda\\3 \u043A\u0443\u0440\u0441\\\u0438\u0441\u043F 34\\\u0440\u0430\u0437\u0440\u0430\u0431\u043E\u0442\u043A\u0430 \u043A\u043E\u0434\u0430 \u0438\u0441\\\u0434\u043E\u043C\u043D\u0438\u043D \u0434\u043C\u0438\u0442\u0440\u0438\u0439\\git_project_education\\version2_book_accounting_system\\version2_basicuser\\searchform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "\\\\192.168.3.250\\Veda\\3 \u043A\u0443\u0440\u0441\\\u0418\u0421\u041F 34\\\u0420\u0430\u0437\u0440\u0430\u0431\u043E\u0442\u043A\u0430 \u043A\u043E\u0434\u0430 \u0418\u0421\\\u0414\u043E\u043C\u043D\u0438\u043D \u0414\u043C\u0438\u0442\u0440\u0438\u0439\\git_project_education\\version2_book_accounting_system\\version2_basicuser\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "\\\\192.168.3.250\\Veda\\3 \u043A\u0443\u0440\u0441\\\u0418\u0421\u041F 34\\\u0420\u0430\u0437\u0440\u0430\u0431\u043E\u0442\u043A\u0430 \u043A\u043E\u0434\u0430 \u0418\u0421\\\u0414\u043E\u043C\u043D\u0438\u043D \u0414\u043C\u0438\u0442\u0440\u0438\u0439\\git_project_education\\version2_book_accounting_system\\version2_basicuser\\Form1.cs",
+              "RelativeToolTip": "Form1.cs",
+              "ViewState": "AgIAAC0AAAAAAAAAAAAowDIAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-25T06:17:04.001Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "searchform.cs",
+              "DocumentMoniker": "\\\\192.168.3.250\\Veda\\3 \u043A\u0443\u0440\u0441\\\u0418\u0421\u041F 34\\\u0420\u0430\u0437\u0440\u0430\u0431\u043E\u0442\u043A\u0430 \u043A\u043E\u0434\u0430 \u0418\u0421\\\u0414\u043E\u043C\u043D\u0438\u043D \u0414\u043C\u0438\u0442\u0440\u0438\u0439\\git_project_education\\version2_book_accounting_system\\version2_basicuser\\searchform.cs",
+              "RelativeDocumentMoniker": "searchform.cs",
+              "ToolTip": "\\\\192.168.3.250\\Veda\\3 \u043A\u0443\u0440\u0441\\\u0418\u0421\u041F 34\\\u0420\u0430\u0437\u0440\u0430\u0431\u043E\u0442\u043A\u0430 \u043A\u043E\u0434\u0430 \u0418\u0421\\\u0414\u043E\u043C\u043D\u0438\u043D \u0414\u043C\u0438\u0442\u0440\u0438\u0439\\git_project_education\\version2_book_accounting_system\\version2_basicuser\\searchform.cs",
+              "RelativeToolTip": "searchform.cs",
+              "ViewState": "AgIAACcAAAAAAAAAAAAnwDkAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-25T05:44:29.444Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "searchform.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "DocumentMoniker": "\\\\192.168.3.250\\Veda\\3 \u043A\u0443\u0440\u0441\\\u0418\u0421\u041F 34\\\u0420\u0430\u0437\u0440\u0430\u0431\u043E\u0442\u043A\u0430 \u043A\u043E\u0434\u0430 \u0418\u0421\\\u0414\u043E\u043C\u043D\u0438\u043D \u0414\u043C\u0438\u0442\u0440\u0438\u0439\\git_project_education\\version2_book_accounting_system\\version2_basicuser\\searchform.cs",
+              "RelativeDocumentMoniker": "searchform.cs",
+              "ToolTip": "\\\\192.168.3.250\\Veda\\3 \u043A\u0443\u0440\u0441\\\u0418\u0421\u041F 34\\\u0420\u0430\u0437\u0440\u0430\u0431\u043E\u0442\u043A\u0430 \u043A\u043E\u0434\u0430 \u0418\u0421\\\u0414\u043E\u043C\u043D\u0438\u043D \u0414\u043C\u0438\u0442\u0440\u0438\u0439\\git_project_education\\version2_book_accounting_system\\version2_basicuser\\searchform.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "RelativeToolTip": "searchform.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-25T05:37:14.126Z",
+              "EditorCaption": " [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "DocumentMoniker": "\\\\192.168.3.250\\Veda\\3 \u043A\u0443\u0440\u0441\\\u0418\u0421\u041F 34\\\u0420\u0430\u0437\u0440\u0430\u0431\u043E\u0442\u043A\u0430 \u043A\u043E\u0434\u0430 \u0418\u0421\\\u0414\u043E\u043C\u043D\u0438\u043D \u0414\u043C\u0438\u0442\u0440\u0438\u0439\\git_project_education\\version2_book_accounting_system\\version2_basicuser\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "\\\\192.168.3.250\\Veda\\3 \u043A\u0443\u0440\u0441\\\u0418\u0421\u041F 34\\\u0420\u0430\u0437\u0440\u0430\u0431\u043E\u0442\u043A\u0430 \u043A\u043E\u0434\u0430 \u0418\u0421\\\u0414\u043E\u043C\u043D\u0438\u043D \u0414\u043C\u0438\u0442\u0440\u0438\u0439\\git_project_education\\version2_book_accounting_system\\version2_basicuser\\Form1.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "RelativeToolTip": "Form1.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-25T05:34:19.394Z",
+              "EditorCaption": " [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

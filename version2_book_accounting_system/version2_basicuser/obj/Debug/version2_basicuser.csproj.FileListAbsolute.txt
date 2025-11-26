@@ -1,0 +1,12 @@
+\\192.168.3.250\Veda\3 курс\ИСП 34\Разработка кода ИС\Домнин Дмитрий\git_project_education\version2_book_accounting_system\version2_basicuser\obj\Debug\version2_basicuser.csproj.AssemblyReference.cache
+\\192.168.3.250\Veda\3 курс\ИСП 34\Разработка кода ИС\Домнин Дмитрий\git_project_education\version2_book_accounting_system\version2_basicuser\obj\Debug\version2_basicuser.Form1.resources
+\\192.168.3.250\Veda\3 курс\ИСП 34\Разработка кода ИС\Домнин Дмитрий\git_project_education\version2_book_accounting_system\version2_basicuser\obj\Debug\version2_basicuser.Properties.Resources.resources
+\\192.168.3.250\Veda\3 курс\ИСП 34\Разработка кода ИС\Домнин Дмитрий\git_project_education\version2_book_accounting_system\version2_basicuser\obj\Debug\version2_basicuser.searchform.resources
+\\192.168.3.250\Veda\3 курс\ИСП 34\Разработка кода ИС\Домнин Дмитрий\git_project_education\version2_book_accounting_system\version2_basicuser\obj\Debug\version2_basicuser.csproj.GenerateResource.cache
+\\192.168.3.250\Veda\3 курс\ИСП 34\Разработка кода ИС\Домнин Дмитрий\git_project_education\version2_book_accounting_system\version2_basicuser\obj\Debug\version2_basicuser.csproj.CoreCompileInputs.cache
+\\192.168.3.250\Veda\3 курс\ИСП 34\Разработка кода ИС\Домнин Дмитрий\git_project_education\version2_book_accounting_system\version2_basicuser\bin\Debug\git.accdb
+\\192.168.3.250\Veda\3 курс\ИСП 34\Разработка кода ИС\Домнин Дмитрий\git_project_education\version2_book_accounting_system\version2_basicuser\bin\Debug\version2_basicuser.exe.config
+\\192.168.3.250\Veda\3 курс\ИСП 34\Разработка кода ИС\Домнин Дмитрий\git_project_education\version2_book_accounting_system\version2_basicuser\bin\Debug\version2_basicuser.exe
+\\192.168.3.250\Veda\3 курс\ИСП 34\Разработка кода ИС\Домнин Дмитрий\git_project_education\version2_book_accounting_system\version2_basicuser\bin\Debug\version2_basicuser.pdb
+\\192.168.3.250\Veda\3 курс\ИСП 34\Разработка кода ИС\Домнин Дмитрий\git_project_education\version2_book_accounting_system\version2_basicuser\obj\Debug\version2_basicuser.exe
+\\192.168.3.250\Veda\3 курс\ИСП 34\Разработка кода ИС\Домнин Дмитрий\git_project_education\version2_book_accounting_system\version2_basicuser\obj\Debug\version2_basicuser.pdb
